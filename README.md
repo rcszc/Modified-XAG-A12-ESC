@@ -43,3 +43,8 @@
     <img src="images/complete_back.jpg" alt="T2" style="width: 49%">
 </div>
 <img src="images/test3s.jpg" alt="T3">
+
+### 设想
+
+玩F3A的朋友可以试试极飞A12电机带配套桨自己加个整流罩, 貌似A12拉力能到8kg+, F3A 50E-70E级(?), 级毕竟超级白菜价的动力组了,
+一套顶死不超过200.
